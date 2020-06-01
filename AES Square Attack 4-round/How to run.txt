@@ -1,0 +1,10 @@
+g++ DeltaGenerator.cpp -std=c++11 -O2 -o deltaGenerator
+g++ encrypter.cpp -std=c++11 -O2 -o encrypter
+g++ decrypter.cpp -std=c++11 -O2 -o decrypter
+g++ AutomatedTesting.cpp -std=c++11 -O2 -o automatedTesting
+
+./deltaGenerator
+./encrypter
+./decrypter
+
+./automatedTesting
