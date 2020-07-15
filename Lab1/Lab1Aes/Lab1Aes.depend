@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1586246977 source:c:\users\lehuy\documents\security\lab1\lab1aes\aes_decrypt.c
+
+1586253208 source:c:\users\lehuy\documents\security\lab1\lab1aes\aes_cbc_encrypt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"aes.h"
+
+1586180958 c:\users\lehuy\documents\security\lab1\lab1aes\aes.h
+	<stdio.h>
+	<string.h>
+
+1586253081 source:c:\users\lehuy\documents\security\lab1\lab1aes\aes_cbc_decrypt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"aes.h"
+
+1586353738 source:c:\users\lehuy\documents\security\lab1\lab1aes\mac-aes-cbc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"aes.h"
+

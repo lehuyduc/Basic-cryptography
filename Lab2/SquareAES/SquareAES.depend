@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586435874 source:c:\users\lehuy\documents\security\lab2\squareaes\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<algorithm>
+	<stdlib.h>
+	<cstring>
+	<map>
+	<set>
+	<time.h>
+	"aes.h"
+
+1586435707 c:\users\lehuy\documents\security\lab2\squareaes\aes.h
+	<stdio.h>
+	<string.h>
+	<vector>
+

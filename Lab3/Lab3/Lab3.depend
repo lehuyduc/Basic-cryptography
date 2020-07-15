@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586439726 source:c:\users\lehuy\documents\security\lab2\lab3\main.cpp
+	<iostream>
+	"lib.h"
+
+1586439750 c:\users\lehuy\documents\security\lab2\lab3\lib.h
+	<iostream>
+	<algorithm>
+	<map>
+	<set>
+	<stdlib.h>
+

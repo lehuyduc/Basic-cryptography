@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1586593434 source:c:\users\lehuy\documents\security\lab5\basicgmp\main.cpp
+	<iostream>
+	<bignum.h>
+	<random>
+	<time.h>
+
+1586701870 c:\users\lehuy\documents\security\lab5\basicgmp\\bignum.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<gmp.h>
+
+1586701981 source:c:\users\lehuy\documents\security\lab5\basicgmp\factorial.cpp
+	<iostream>
+	<bignum.h>
+	<random>
+	<time.h>
+
+1586702362 source:c:\users\lehuy\documents\security\lab5\basicgmp\random2.cpp
+	<iostream>
+	<bignum.h>
+	<random>
+	<time.h>
+	<rander.h>
+
+1586673870 c:\users\lehuy\documents\security\lab5\basicgmp\\rander.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<gmp.h>
+	<bignum.h>
+
+1586703881 source:c:\users\lehuy\documents\security\lab5\basicgmp\random3.cpp
+	<iostream>
+	<bignum.h>
+	<random>
+	<time.h>
+	<rander.h>
+
+1586689981 c:\users\lehuy\documents\security\lab5\basicgmp\\lib.h
+	<iostream>
+	<algorithm>
+	<map>
+	<set>
+	<stdlib.h>
+
+1586664078 source:c:\users\lehuy\documents\security\lab5\basicgmp\testrander.cpp
+	<iostream>
+	<bignum.h>
+	<random>
+	<time.h>
+	<rander.h>
+	<lib.h>
+

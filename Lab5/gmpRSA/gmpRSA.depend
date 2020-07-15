@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1586593365 source:c:\users\lehuy\documents\security\lab5\gmprsa\main.cpp
+	<iostream>
+	<bignum.h>
+	<fstream>
+	<random>
+	<time.h>
+
+1586533855 c:\gmp\gmp.h
+	<iosfwd>
+	<cstdio>
+	<stddef.h>
+	<limits.h>
+
+1586575505 source:c:\users\lehuy\documents\security\lab5\gmprsa\bignum.h
+	<iostream>
+	<math.h>
+	<gmp.h>
+
+1586701888 c:\users\lehuy\documents\security\lab5\gmprsa\\bignum.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<gmp.h>
+
+1586704235 source:c:\users\lehuy\documents\security\lab5\gmprsa\rsagmp.cpp
+	<iostream>
+	<bignum.h>
+	<fstream>
+	<random>
+	<rander.h>
+	<lib.h>
+
+1586673870 c:\users\lehuy\documents\security\lab5\gmprsa\\rander.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<gmp.h>
+	<bignum.h>
+
+1586704132 c:\users\lehuy\documents\security\lab5\gmprsa\\lib.h
+	<iostream>
+	<algorithm>
+	<map>
+	<set>
+	<stdlib.h>
+

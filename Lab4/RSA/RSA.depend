@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586515556 source:c:\users\lehuy\documents\security\lab4\rsa\lib.h
+	<iostream>
+	<algorithm>
+	<map>
+	<set>
+	<stdlib.h>
+
+1586527962 source:c:\users\lehuy\documents\security\lab4\rsa\main.cpp
+	<iostream>
+	"lib.h"
+
+1586527779 c:\users\lehuy\documents\security\lab4\rsa\lib.h
+	<iostream>
+	<algorithm>
+	<map>
+	<set>
+	<stdlib.h>
+
